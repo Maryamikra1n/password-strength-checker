@@ -132,7 +132,7 @@ password-strength-checker/
 ## 👨‍💻 Author
 
 **Your Name**  
-🔗 [GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+🔗 [GitHub](https://github.com/Maryamikra1n) · [LinkedIn](www.linkedin.com/in/maryam-ikram-83543a392)
 
 ---
 
