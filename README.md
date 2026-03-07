@@ -131,7 +131,7 @@ password-strength-checker/
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Maryam**  
 🔗 [GitHub](https://github.com/Maryamikra1n) · [LinkedIn](https://linkedin.com/in/maryam-ikram-83543a392)
 
 ---
