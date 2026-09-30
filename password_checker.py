@@ -9,10 +9,6 @@ import re
 import math
 
 
-# ─────────────────────────────────────────────
-#  CORE LOGIC  (no GUI here – pure functions)
-# ─────────────────────────────────────────────
-
 def calculate_entropy(password):
     """
     Entropy measures how unpredictable a password is.
